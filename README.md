@@ -1,4 +1,4 @@
-````
+````md
 # Tech Skills Academy Website
 
 This project is a simple multi-section HTML website created for a Student Training Institute assignment.
@@ -38,3 +38,4 @@ Maliha Mohit
 
 ```
 ```
+
