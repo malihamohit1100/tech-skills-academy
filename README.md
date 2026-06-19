@@ -1,4 +1,3 @@
-````md
 # Tech Skills Academy Website
 
 This project is a simple multi-section HTML website created for a Student Training Institute assignment.
@@ -19,13 +18,11 @@ This project is a simple multi-section HTML website created for a Student Traini
 
 ## Project Structure
 
-```text
 project-folder/
 │
 ├── index.html
 │
 └── images/
-````
 
 ## How to Run
 
@@ -36,6 +33,4 @@ project-folder/
 
 Maliha Mohit
 
-```
-```
 
